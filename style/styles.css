@@ -1588,6 +1588,10 @@ body {
     transform: rotate(45deg);
 }
 
+.registration__link-policy {
+    color: var(--text-accent);
+}
+
 .registration__button {
     position: relative;
     padding: 15px 60px;
