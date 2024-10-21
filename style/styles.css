@@ -15,7 +15,7 @@
     --border-button: 2px solid #558cad;  
     --bg-main-button: #558cad;           
     --bg-accent-button: #ff97c1;         
-     
+    
     --shadow-button:0px 0px 10px 0px rgba(0, 0, 0, 0.5);
     --radius-button:12px;
 
@@ -556,7 +556,6 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 60px 0;
-    overflow: hidden;
 }
 
 .example__section-name {
